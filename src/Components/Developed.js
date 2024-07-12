@@ -2,7 +2,7 @@ import React from 'react';
 
 const Developed = () => {
   return (
-    <div>Developed by Francisco Acuña :)</div>
+    <div className='developed'>Developed by Francisco Acuña :)</div>
   )
 }
 
