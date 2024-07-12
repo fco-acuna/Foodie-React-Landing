@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+It´s a simple landing page for a food delivery service. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tools used: 
+* React
+* Javascript
+* HTML
+* CSS
 
-## Available Scripts
 
-In the project directory, you can run:
+#HomePage
+![image](https://github.com/user-attachments/assets/de425369-55f8-4c4a-8c11-33c54bc91189)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#About
+![image](https://github.com/user-attachments/assets/22de1584-12af-41d6-a7a4-9ecf687dda2c)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+#How_It_Works
+![image](https://github.com/user-attachments/assets/00c3bf1a-0ae3-4eed-8a42-9e169e94bc81)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#Testimonials
+![image](https://github.com/user-attachments/assets/8f751bba-ba98-4e4d-910e-04a0d82a1377)
 
-### `npm run build`
+#Contact_and_Footer
+![image](https://github.com/user-attachments/assets/e0829e5e-6b8e-4112-829f-ddbb245e07f6)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Signature
+![image](https://github.com/user-attachments/assets/92168e67-a357-4719-aaec-9ba6a10c974e)
